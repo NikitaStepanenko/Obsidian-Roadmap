@@ -6,37 +6,22 @@
       {
         "id": "f3f2bd9291801e40",
         "type": "tabs",
-        "dimension": 57.43034055727554,
         "children": [
           {
             "id": "8c07248a024a1e48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "RoadMap.md",
-                "mode": "source",
-                "source": true
+                "file": "RoadMap.canvas",
+                "viewState": {
+                  "x": -627.5,
+                  "y": -910.0000000000001,
+                  "zoom": -2.6503744013486923
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-layout-dashboard",
               "title": "RoadMap"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8ec247afdb638178",
-        "type": "tabs",
-        "dimension": 42.56965944272446,
-        "children": [
-          {
-            "id": "cafd9ec8664705f9",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {},
-              "icon": "dot-network",
-              "title": "Mind Map of Новая вкладка"
             }
           }
         ]
@@ -187,9 +172,9 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "cafd9ec8664705f9",
+  "active": "8c07248a024a1e48",
   "lastOpenFiles": [
-    "Welcome.md",
-    "RoadMap.md"
+    "RoadMap.md",
+    "Welcome.md"
   ]
 }

@@ -1,0 +1,496 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromNode": "70db4f1172b38e9f",
+      "fromSide": "bottom",
+      "id": "f0fc9d23f5f03644",
+      "toNode": "a757bf4aace05182",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "a757bf4aace05182",
+      "fromSide": "left",
+      "id": "2bdb36953f302aa5",
+      "toNode": "5d0f4f0a2dfab6b9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5d0f4f0a2dfab6b9",
+      "fromSide": "bottom",
+      "id": "d122d49c9c2059e4",
+      "toNode": "0766da860311d104",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5d0f4f0a2dfab6b9",
+      "fromSide": "bottom",
+      "id": "c8f8ebda7b7d9dcf",
+      "toNode": "b45ddce62c4b638d",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "a757bf4aace05182",
+      "fromSide": "bottom",
+      "id": "cbecbca563c7a461",
+      "toNode": "a5c0587cc47a1b8a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a5c0587cc47a1b8a",
+      "fromSide": "bottom",
+      "id": "87b048624a8471aa",
+      "toNode": "614673dff6794daa",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a5c0587cc47a1b8a",
+      "fromSide": "bottom",
+      "id": "f604db2b852664cd",
+      "toNode": "89ae9afcbd71ab0d",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "a757bf4aace05182",
+      "fromSide": "left",
+      "id": "60fe318af9745b53",
+      "toNode": "2a8a714a86bc1a9b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2a8a714a86bc1a9b",
+      "fromSide": "bottom",
+      "id": "0f53dd90f4f2179b",
+      "toNode": "fa93f2b1e1153e24",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "a757bf4aace05182",
+      "fromSide": "right",
+      "id": "23682517b2a8b311",
+      "toNode": "3a7f7a67ad64ddd1",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9f9c7d77795ed8c6",
+      "fromSide": "bottom",
+      "id": "09c9a6f59e9fa0e3",
+      "toNode": "8da28545c3b3c685",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9f9c7d77795ed8c6",
+      "fromSide": "bottom",
+      "id": "2aa281f0313ace2f",
+      "toNode": "d7ec3997971b11dd",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "a757bf4aace05182",
+      "fromSide": "right",
+      "id": "c430a17ca01f33f5",
+      "toNode": "9f9c7d77795ed8c6",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "70db4f1172b38e9f",
+      "fromSide": "bottom",
+      "id": "aa5b8e7e848ed615",
+      "toNode": "ffc9a5bd957a6b95",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "ffc9a5bd957a6b95",
+      "fromSide": "bottom",
+      "id": "abf8b480784a56df",
+      "toNode": "820cdc9d747acd2d",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "ffc9a5bd957a6b95",
+      "fromSide": "bottom",
+      "id": "6cc8811a86486874",
+      "toNode": "c037c7cf88a0e186",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "ffc9a5bd957a6b95",
+      "fromSide": "right",
+      "id": "98d0abaa591dd119",
+      "toNode": "e6ef533277daeb5e",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "ffc9a5bd957a6b95",
+      "fromSide": "right",
+      "id": "ff80db8342772921",
+      "toNode": "39a949060cbeb1be",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e6ef533277daeb5e",
+      "fromSide": "bottom",
+      "id": "02405ad90bd43ae3",
+      "toNode": "32e907492a673d03",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "69944deb065eeb83",
+      "fromSide": "bottom",
+      "id": "b17c2c564d287ba9",
+      "toNode": "c36e9335bbca4ea0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "69944deb065eeb83",
+      "fromSide": "bottom",
+      "id": "59918256b7ef530d",
+      "toNode": "8f90a59219d995d8",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "ffc9a5bd957a6b95",
+      "fromSide": "bottom",
+      "id": "0d2f29c478be6e27",
+      "styleAttributes": {
+      },
+      "toNode": "69944deb065eeb83",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "a757bf4aace05182",
+      "fromSide": "left",
+      "id": "c381760e33219cbd",
+      "styleAttributes": {
+      },
+      "toNode": "04fd592d0f8127a9",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "04fd592d0f8127a9",
+      "fromSide": "left",
+      "id": "523dfdba49e2e366",
+      "styleAttributes": {
+      },
+      "toNode": "aa9be1e2af4ae095",
+      "toSide": "right"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "3",
+      "height": 60,
+      "id": "70db4f1172b38e9f",
+      "styleAttributes": {
+      },
+      "text": "RoadMap\n",
+      "type": "text",
+      "width": 250,
+      "x": -780,
+      "y": -1551
+    },
+    {
+      "height": 60,
+      "id": "2a8a714a86bc1a9b",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": null
+      },
+      "text": "События и ивенты",
+      "type": "text",
+      "width": 250,
+      "x": -1865,
+      "y": -1080
+    },
+    {
+      "height": 50,
+      "id": "5d0f4f0a2dfab6b9",
+      "styleAttributes": {
+      },
+      "text": "Собеседования",
+      "type": "text",
+      "width": 250,
+      "x": -2205,
+      "y": -1080
+    },
+    {
+      "height": 50,
+      "id": "a5c0587cc47a1b8a",
+      "styleAttributes": {
+      },
+      "text": "Английский язык",
+      "type": "text",
+      "width": 250,
+      "x": -1525,
+      "y": -1080
+    },
+    {
+      "height": 50,
+      "id": "9f9c7d77795ed8c6",
+      "styleAttributes": {
+      },
+      "text": "Команда",
+      "type": "text",
+      "width": 250,
+      "x": -1185,
+      "y": -1080
+    },
+    {
+      "height": 50,
+      "id": "3a7f7a67ad64ddd1",
+      "styleAttributes": {
+      },
+      "text": "Портфолио",
+      "type": "text",
+      "width": 250,
+      "x": -845,
+      "y": -1080
+    },
+    {
+      "height": 60,
+      "id": "614673dff6794daa",
+      "styleAttributes": {
+      },
+      "text": "Чтение книг на английском ",
+      "type": "text",
+      "width": 250,
+      "x": -1615,
+      "y": -720
+    },
+    {
+      "height": 60,
+      "id": "89ae9afcbd71ab0d",
+      "styleAttributes": {
+      },
+      "text": "Создание словаря",
+      "type": "text",
+      "width": 250,
+      "x": -1365,
+      "y": -810
+    },
+    {
+      "height": 174,
+      "id": "8da28545c3b3c685",
+      "styleAttributes": {
+      },
+      "text": "Оценка задач\n- [ ] Изучение техник оценивания\n- [ ] Оценка и контроль времени",
+      "type": "text",
+      "width": 250,
+      "x": -1115,
+      "y": -654
+    },
+    {
+      "height": 271,
+      "id": "d7ec3997971b11dd",
+      "styleAttributes": {
+      },
+      "text": "Наставничество\n- [ ] Помощь новичкам\n- [ ] Проведение код-ревью с объяснением ошибок и предложением улучшений\n- [ ] Создание обучающих материалов для коллег",
+      "type": "text",
+      "width": 285,
+      "x": -845,
+      "y": -838
+    },
+    {
+      "height": 268,
+      "id": "e6ef533277daeb5e",
+      "styleAttributes": {
+      },
+      "text": "Продвинутые\n- CEO\n- Next.js \n- React Native\n- Изучение возможности оптимизации и перфоманса",
+      "type": "text",
+      "width": 250,
+      "x": 760,
+      "y": -1018
+    },
+    {
+      "height": 122,
+      "id": "39a949060cbeb1be",
+      "styleAttributes": {
+      },
+      "text": "Экспертные\n- Работа с графикой",
+      "type": "text",
+      "width": 250,
+      "x": 1240,
+      "y": -1140
+    },
+    {
+      "height": 400,
+      "id": "32e907492a673d03",
+      "styleAttributes": {
+      },
+      "text": "TS\n- [ ] Изучение документации (https://www.typescriptlang.org/docs/handbook/)\n- [ ] Решение задач (https://github.com/type-challenges/type-challenges)\n- [ ] https://www.youtube.com/watch?v=rMEJAy9mMyI",
+      "type": "text",
+      "width": 250,
+      "x": 635,
+      "y": -600
+    },
+    {
+      "color": "6",
+      "height": 240,
+      "id": "ab8a5057e76d2b1d",
+      "styleAttributes": {
+      },
+      "text": "# TODO: \n1. Добавить пункт чтения статей \n2. Добавить пункт чтения книг \n3. Конкретизировать хард скиллы, построить план по пунктам \n4. Настроить канвас ",
+      "type": "text",
+      "width": 465,
+      "x": -1400,
+      "y": -2000
+    },
+    {
+      "height": 120,
+      "id": "fa93f2b1e1153e24",
+      "styleAttributes": {
+      },
+      "text": "Попробовать написать доклад для выступления внутри компании",
+      "type": "text",
+      "width": 250,
+      "x": -1865,
+      "y": -870
+    },
+    {
+      "height": 180,
+      "id": "b45ddce62c4b638d",
+      "styleAttributes": {
+      },
+      "text": "Прохождение\n- [ ] Прохождение тестовых собесов\n- [ ] Повторение вопросов на собесы",
+      "type": "text",
+      "width": 304,
+      "x": -2169,
+      "y": -690
+    },
+    {
+      "height": 180,
+      "id": "0766da860311d104",
+      "styleAttributes": {
+      },
+      "text": "Проведение\n- [ ] Изучение техники проведения собеседования\n- [ ] Формирование своего стека вопросов и практических заданий\n- [ ] Структурность обратной связи по кандидату",
+      "type": "text",
+      "width": 540,
+      "x": -2745,
+      "y": -840
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "a757bf4aace05182",
+      "styleAttributes": {
+      },
+      "text": "Soft Skills",
+      "type": "text",
+      "width": 250,
+      "x": -1525,
+      "y": -1340
+    },
+    {
+      "height": 380,
+      "id": "cc9b0b746f52fed7",
+      "styleAttributes": {
+      },
+      "text": "Апрель 2025 \n- интенсив https://www.youtube.com/watch?v=rMEJAy9mMyI\n- прохождение тестовых собесов\n- ![[Pasted image 20250328161626.png]]",
+      "type": "text",
+      "width": 415,
+      "x": -395,
+      "y": -200
+    },
+    {
+      "height": 60,
+      "id": "69944deb065eeb83",
+      "styleAttributes": {
+      },
+      "text": "Курсы",
+      "type": "text",
+      "width": 250,
+      "x": -355,
+      "y": -1140
+    },
+    {
+      "height": 169,
+      "id": "8f90a59219d995d8",
+      "styleAttributes": {
+      },
+      "text": "DevOps-инженер. Основы (https://skillbox.lerna.ru/course/devops-engineer-basic/)",
+      "type": "text",
+      "width": 250,
+      "x": -290,
+      "y": -700
+    },
+    {
+      "height": 181,
+      "id": "c36e9335bbca4ea0",
+      "styleAttributes": {
+      },
+      "text": "Data Scientist. ML. Средний уровень (нейронные сети) (https://skillbox.lerna.ru/course/ml-data-scientist-neural-networks/)",
+      "type": "text",
+      "width": 250,
+      "x": 20,
+      "y": -748
+    },
+    {
+      "height": 60,
+      "id": "04fd592d0f8127a9",
+      "styleAttributes": {
+      },
+      "text": "Курсы",
+      "type": "text",
+      "width": 250,
+      "x": -1990,
+      "y": -1440
+    },
+    {
+      "height": 121,
+      "id": "aa9be1e2af4ae095",
+      "styleAttributes": {
+      },
+      "text": "Тайм-менеджмент (https://skillbox.lerna.ru/course/time-management/)",
+      "type": "text",
+      "width": 250,
+      "x": -2400,
+      "y": -1431
+    },
+    {
+      "height": 133,
+      "id": "820cdc9d747acd2d",
+      "styleAttributes": {
+      },
+      "text": "Базовые\n- Интернет и браузер \n- Git",
+      "type": "text",
+      "width": 250,
+      "x": -40,
+      "y": -1084
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "ffc9a5bd957a6b95",
+      "styleAttributes": {
+      },
+      "text": "Hard Skills",
+      "type": "text",
+      "width": 250,
+      "x": 20,
+      "y": -1340
+    },
+    {
+      "height": 144,
+      "id": "c037c7cf88a0e186",
+      "styleAttributes": {
+      },
+      "text": "Промежуточные\n- Сборка (vite, webpack)\n- CI/CD",
+      "type": "text",
+      "width": 250,
+      "x": 360,
+      "y": -1055
+    }
+  ]
+}
